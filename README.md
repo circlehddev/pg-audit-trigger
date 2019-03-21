@@ -2,7 +2,7 @@ A simple, customisable table audit system for PostgreSQL implemented using trigg
 
 See: http://wiki.postgresql.org/wiki/Audit_trigger_91plus
 
-# Audit trigger 91plus Library Snippets
+# Audit trigger 10plus Library Snippets
 
 ## Generic audit trigger function (enhanced)
 
